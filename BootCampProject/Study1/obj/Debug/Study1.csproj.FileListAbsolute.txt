@@ -5,3 +5,10 @@ C:\BootCampProject\Study1\obj\Debug\Study1.csproj.AssemblyReference.cache
 C:\BootCampProject\Study1\obj\Debug\Study1.csproj.CoreCompileInputs.cache
 C:\BootCampProject\Study1\obj\Debug\Study1.exe
 C:\BootCampProject\Study1\obj\Debug\Study1.pdb
+C:\GitProject\LikeLionCS\BootCampProject\Study1\bin\Debug\Study1.exe.config
+C:\GitProject\LikeLionCS\BootCampProject\Study1\bin\Debug\Study1.exe
+C:\GitProject\LikeLionCS\BootCampProject\Study1\bin\Debug\Study1.pdb
+C:\GitProject\LikeLionCS\BootCampProject\Study1\obj\Debug\Study1.csproj.AssemblyReference.cache
+C:\GitProject\LikeLionCS\BootCampProject\Study1\obj\Debug\Study1.csproj.CoreCompileInputs.cache
+C:\GitProject\LikeLionCS\BootCampProject\Study1\obj\Debug\Study1.exe
+C:\GitProject\LikeLionCS\BootCampProject\Study1\obj\Debug\Study1.pdb
