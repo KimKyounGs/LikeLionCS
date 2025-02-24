@@ -1,0 +1,7 @@
+C:\GitProject\LikeLionCS\Study2\bin\Debug\Study2.exe.config
+C:\GitProject\LikeLionCS\Study2\bin\Debug\Study2.exe
+C:\GitProject\LikeLionCS\Study2\bin\Debug\Study2.pdb
+C:\GitProject\LikeLionCS\Study2\obj\Debug\Study2.csproj.AssemblyReference.cache
+C:\GitProject\LikeLionCS\Study2\obj\Debug\Study2.csproj.CoreCompileInputs.cache
+C:\GitProject\LikeLionCS\Study2\obj\Debug\Study2.exe
+C:\GitProject\LikeLionCS\Study2\obj\Debug\Study2.pdb
